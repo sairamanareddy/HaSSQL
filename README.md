@@ -1,7 +1,7 @@
 # HaSSQL
 ![CircleCI](https://img.shields.io/circleci/build/github/sairamanareddy/HaSSQL?style=for-the-badge)
 [![License](https://img.shields.io/badge/License-BSD--3-informational.svg?style=for-the-badge)](https://github.com/IITH-SBJoshi/haskell-8/blob/master/LICENSE)
-[![Inline docs](https://img.shields.io/badge/Haddock-Reference-blue.svg?style=for-the-badge&logo=haskell)](http://104.211.220.36/docs/index.html)
+[![Inline docs](https://img.shields.io/badge/Haddock-Reference-blue.svg?style=for-the-badge&logo=haskell)](https://sairamanareddy.github.io/HaSSQL/)
 
 Haskell Simple Structured Query Language is a subset of SQL with a local database integration based on Parsec Library.
 
